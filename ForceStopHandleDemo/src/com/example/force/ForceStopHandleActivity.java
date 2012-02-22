@@ -9,5 +9,6 @@ public class ForceStopHandleActivity extends Activity {
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
+	   System.out.println("changes inside the user-2");
     }
 }
