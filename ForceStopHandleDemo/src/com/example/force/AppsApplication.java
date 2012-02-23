@@ -12,6 +12,8 @@ import android.util.Log;
  *
  */
 
+// Conflicting commit done //
+
 public class AppsApplication extends Application implements ComponentCallbacks {
 
 
