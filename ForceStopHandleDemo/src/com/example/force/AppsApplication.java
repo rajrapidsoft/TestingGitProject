@@ -7,9 +7,9 @@ import android.os.Bundle;
 import android.util.Log;
 
 /**
- * 
+ *
  * @author rapidsoft
- * 
+ *
  */
 
 public class AppsApplication extends Application implements ComponentCallbacks {
@@ -17,7 +17,7 @@ public class AppsApplication extends Application implements ComponentCallbacks {
 
 	public AppsApplication() {
 		// TODO Auto-generated constructor stub
-		// changes made by developer-1
+		// changes made by developer-1 Rajiv
 	}
 
 	@Override
