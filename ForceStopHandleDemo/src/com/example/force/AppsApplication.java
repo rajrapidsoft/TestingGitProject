@@ -12,6 +12,8 @@ import android.util.Log;
  *
  */
 
+// Conflicting commit done //
+
 public class AppsApplication extends Application implements ComponentCallbacks {
 
 
@@ -22,6 +24,7 @@ public class AppsApplication extends Application implements ComponentCallbacks {
 	@Override
 	public void onCreate() {
 		// TODO Auto-generated method stub
+		Log.v("Application", "oncreate()");Log.v("Application", "oncreate()");
 		Log.v("Application", "oncreate()");
 		super.onCreate();
 	}

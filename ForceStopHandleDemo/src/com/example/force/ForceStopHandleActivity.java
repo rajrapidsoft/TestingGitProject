@@ -9,6 +9,7 @@ public class ForceStopHandleActivity extends Activity {
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
-	   System.out.println("changes inside the user-2");
+	   System.out.println("changes inside the user-2just added line of master branc");
+	   System.out.println("SOUT added inside the rapid branch...");
     }
 }
