@@ -16,7 +16,7 @@ public class AppsApplication extends Application implements ComponentCallbacks {
 
 
 	public AppsApplication() {
-		// Changed made by Rajiv, on 05-02-2012 and the day was as monday....
+		// Changed made by Rajiv, on 05-02-2012 and the day was as monday....again I changed this line as the owner...
 	}
 
 	@Override
